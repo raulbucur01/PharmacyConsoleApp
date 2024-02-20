@@ -1,0 +1,1 @@
+{"2": {"py/object": "Domain.Transaction.Transaction", "id_entity": "2", "id_medicine": "2", "id_card": "0", "nr_pieces": 10, "date": "12.12.2020", "hour": "12:12"}, "999": {"py/object": "Domain.Transaction.Transaction", "id_entity": "999", "id_medicine": "2", "id_card": "0", "nr_pieces": 10, "date": "06.10.2023", "hour": "11:26"}}

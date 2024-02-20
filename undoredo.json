@@ -1,0 +1,1 @@
+{"1": {"py/object": "Domain.Medicine.Medicine", "id_entity": "1", "name": "Parasinus", "producer": "Bayer", "price": 12.2, "needs_prescription": "nu"}, "2": {"py/object": "Domain.Medicine.Medicine", "id_entity": "2", "name": "da", "producer": "da", "price": 12.2, "needs_prescription": "da"}}
